@@ -1,26 +1,63 @@
-<h1 align="center">Hi 👋, I'm Deep Baidya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 🤖 Chat-Genius AI  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dbaidya811&label=Profile%20views&color=0e75b6&style=flat" alt="dbaidya811" /> </p>
+**Chat-Genius AI** is an intelligent chatbot designed to provide instant responses, assist with tasks, and engage in meaningful conversations. It adapts to user needs, making interactions seamless and efficient.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbaidya811" alt="dbaidya811" /></a> </p>
+## 🌟 Features  
+- ⚡ Instant and accurate responses  
+- 💬 Engages in meaningful conversations  
+- 📚 Assists with queries and tasks  
+- 🧠 AI-powered learning for better interactions  
+- 🌍 Accessible from any device  
 
-<p align="left"> <a href="https://twitter.com/dbaidya811" target="blank"><img src="https://img.shields.io/twitter/follow/dbaidya811?logo=twitter&style=for-the-badge" alt="dbaidya811" /></a> </p>
+## 🚀 Live Demo  
+🔗 **Try Chat-Genius AI:** [Chat-Genius AI](https://dbaidya811.github.io/Chat-Genius.ai/)  
 
-- 🔭 I’m currently working on [Chat Genius](https://dbaidya811.github.io/Chat-Genius.ai/)
-
-- 📫 How to reach me **dbaidya811@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Built With  
 <p align="left">
-<a href="https://twitter.com/dbaidya811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dbaidya811" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dbaidya811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dbaidya811" height="30" width="40" /></a>
-<a href="https://instagram.com/dbaidya811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dbaidya811" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript Logo" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📌 About Me  
+I'm **Deep Baidya**, a passionate developer focused on AI, automation, and web applications.  
+🌍 **Portfolio:** [deepbaidya.netlify.app](https://deepbaidya.netlify.app/)  
+📧 **Email:** [dbaidya811@gmail.com](mailto:dbaidya811@gmail.com)  
 
+## 📲 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/deep-baidya-0376b1315" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn Logo" />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" alt="Facebook Logo" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram Logo" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" width="40" alt="Twitter Logo" />
+  </a>
+</p>
+
+## ☕ Support My Work  
+If you like my work and want to support me, buy me a coffee!  
+<a href="https://buymeacoffee.com/dbaidya811e" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Buy_Me_A_Coffee_Logo.png" width="150" alt="Buy Me a Coffee Logo" />
+</a>
+
+## 💡 How to Use  
+1. Open the [Chat-Genius AI](https://dbaidya811.github.io/Chat-Genius.ai/).  
+2. Type your message in the chat box.  
+3. Receive instant and helpful responses.  
+4. Use it for learning, assistance, or general conversation.  
+
+## 📜 License  
+This project is **open-source** and free to use.  
+
+---
+
+Enjoy using **Chat-Genius AI** and stay connected! 🚀
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dbaidya811e"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dbaidya811e" /></a></p><br><br>
 
