@@ -1,4 +1,5 @@
 # 🤖 Chat-Genius AI  
+Chat-Genius AI is an intelligent chatbot designed to provide quick and accurate responses. It can answer queries, assist with tasks, and engage in meaningful conversations. Built with advanced AI, it adapts to user needs, making interactions smooth and efficient. Ideal for businesses, support, and personal use.
 
 **Chat-Genius AI** is an intelligent chatbot designed to provide instant responses, assist with tasks, and engage in meaningful conversations. It adapts to user needs, making interactions seamless and efficient.  
 
