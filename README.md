@@ -1,7 +1,5 @@
 
----
-
-ChatGenius – AI Chatbot with Technical Support
+## ChatGenius – AI Chatbot with Technical Support
 
 An AI-powered chatbot website designed to provide smart assistance and technical support.
 
