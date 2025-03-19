@@ -1,70 +1,68 @@
+# 🤖 Chat-Genius AI  
 
-## ChatGenius – AI Chatbot with Technical Support
+**Chat-Genius AI** is an intelligent chatbot designed to provide instant responses, assist with tasks, and engage in meaningful conversations. It adapts to user needs, making interactions seamless and efficient.  
 
-An AI-powered chatbot website designed to provide smart assistance and technical support.
+## 🌟 Features  
+- ⚡ Instant and accurate responses  
+- 💬 Engages in meaningful conversations  
+- 📚 Assists with queries and tasks  
+- 🧠 AI-powered learning for better interactions  
+- 🌍 Accessible from any device  
 
-## 🚀 About the Project
+## 🚀 Live Demo  
+🔗 **Try Chat-Genius AI:** [Chat-Genius AI](https://dbaidya811.github.io/Chat-Genius.ai/)  
 
-ChatGenius is an intelligent chatbot integrated into a website, offering automated technical support and real-time assistance. It helps users troubleshoot issues, answer queries, and provide relevant solutions efficiently.
+## 🛠️ Built With  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript Logo" />
+</p>
 
-## 🔧 Features
+## 📌 About Me  
+I'm **Deep Baidya**, a passionate developer focused on AI, automation, and web applications.  
+🌍 **Portfolio:** [deepbaidya.netlify.app](https://deepbaidya.netlify.app/)  
+📧 **Email:** [dbaidya811@gmail.com](mailto:dbaidya811@gmail.com)  
 
-🧠 AI-powered chatbot for instant responses
+## 📲 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/deep-baidya-0376b1315" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn Logo" />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" alt="Facebook Logo" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram Logo" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" width="40" alt="Twitter Logo" />
+  </a>
+</p>
 
-🛠️ Technical support for troubleshooting and guidance
+## ☕ Support My Work  
+If you like my work and want to support me, buy me a coffee!  
+<a href="https://buymeacoffee.com/dbaidya811e" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Buy_Me_A_Coffee_Logo.png" width="150" alt="Buy Me a Coffee Logo" />
+</a>
 
-🌐 Web-based interface with user-friendly design
+## 💡 How to Use  
+1. Open the [Chat-Genius AI](https://dbaidya811.github.io/Chat-Genius.ai/).  
+2. Type your message in the chat box.  
+3. Receive instant and helpful responses.  
+4. Use it for learning, assistance, or general conversation.  
 
-📡 Integration with APIs for enhanced support
-
-🔒 Secure and scalable infrastructure
-
-
-## 🛠️ Technologies Used
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: Node.js / Python (Specify your backend choice)
-
-Database: MongoDB / Firebase (if applicable)
-
-APIs: OpenAI API / Custom NLP Model (if used)
-
-
-## 📌 Setup Instructions
-
-1. Clone the repository:
-
-git clone https://github.com/dbaidya811/chatgenius-website.git
-cd chatgenius-website
-
-
-2. Install dependencies:
-
-npm install
-
-
-3. Configure environment variables (API keys, database, etc.).
-
-
-4. Start the development server:
-
-npm start
-
-
-
-## 📞 Contact & Support
-
-## 🌐 Portfolio: 
-https://www.deepbaidya.netlify.app
-## 💼 LinkedIn: 
-https://www.linkedin.com/in/deep-baidya-0376b1315
-## 🐙 GitHub: 
-https://www.github.com/dbaidya811
-## ☕ Support Me: 
-http://www.buymeacoffee.com/dbaidya811e
-
+## 📜 License  
+This project is **open-source** and free to use.  
 
 ---
 
+Enjoy using **Chat-Genius AI** and stay connected! 🚀
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dbaidya811e"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dbaidya811e" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbaidya811&show_icons=true&locale=en&layout=compact" alt="dbaidya811" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dbaidya811&show_icons=true&locale=en" alt="dbaidya811" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dbaidya811&" alt="dbaidya811" /></p>
